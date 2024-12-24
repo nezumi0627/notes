@@ -31,7 +31,7 @@ Issuesは、プロジェクトの課題、バグ、機能要望などを管理�
 
 ### 2. 記述のベストプラクティス
 ```markdown
-## ��要
+## 要件
 [問題・要望の簡潔な説明]
 
 ## 詳細
@@ -161,7 +161,7 @@ is:issue is:open label:bug assignee:@me
 ### 2. 主な検索オプション
 - `is:issue/pr`: Issue/PRの指定
 - `is:open/closed`: 状態
-- `label:xxx`: ラベ���
+- `label:xxx`: ラベル
 - `assignee:xxx`: 担当者
 - `author:xxx`: 作成者
 - `milestone:xxx`: マイルストーン
