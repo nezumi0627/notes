@@ -28,7 +28,7 @@ GitHubの主要機能の使い方を詳しく解説しています。
 - その他の機能
 
 ### 3. [バージョン管理の基本](version_notes.md)
-Gitを使ったバージョン管理の基本概念と操作方法を説明しています。
+Gitを使ったバージョン管理の基本概念と操作���法を説明しています。
 - バージョン管理とは
 - 基本的なGitコマンド
 - ブランチの使い方
@@ -51,6 +51,14 @@ GitHubのIssue機能の詳細な使い方を解説しています。
 - 検索とフィルタリング
 - プロジェクトとの連携
 
+### 6. [GitHub Pull Request完全ガイド](github_pull_requests.md)
+GitHubのPull Request機能の詳細な使い方を解説しています。
+- Pull Requestの基本
+- 効果的なPR管理
+- コードレビューのベストプラクティス
+- CIとの連携
+- 自動化とテンプレート
+
 ## 🔰 初めての方へ
 
 1. まず[バージョン管理の基本](version_notes.md)でGitの概念を理解する
@@ -58,11 +66,13 @@ GitHubのIssue機能の詳細な使い方を解説しています。
 3. [GitHub用語集](github_glossary.md)で基本的な用語を学ぶ
 4. [GitHubの機能ガイド](github_features.md)で実践的な使い方を身につける
 5. [GitHub Issues完全ガイド](github_issues.md)でIssue管理を学ぶ
+6. [GitHub Pull Request完全ガイド](github_pull_requests.md)でコード変更の提案方法を学ぶ
 
 ## 🔄 更新履歴
 
 - 2024-12-24: リポジトリの作成、初期コンテンツの追加
 - 2024-12-24: GitHub Issues完全ガイドを追加
+- 2024-12-24: GitHub Pull Request完全ガイドを追加
 
 ## 📝 コントリビューション
 
